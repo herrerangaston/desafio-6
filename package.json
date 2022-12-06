@@ -1,0 +1,26 @@
+{
+"dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "socket.io": "^4.5.3"
+},
+"name": "websockets",
+"version": "1.0.0",
+"main": "index.js",
+"scripts": {
+    "dev": "nodemon index.js"
+},
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrerangaston/desafio-6.git#main"
+},
+"keywords": [
+    "node",
+    "express",
+    "websocket"
+],
+"author": "Gaston Herrera",
+"license": "ISC",
+
+"description": ""
+}
